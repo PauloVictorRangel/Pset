@@ -9,7 +9,7 @@
 Fórmula para o calculo da inversa:
 -# c = 255 - o
 
--(c = inversa e o = original)
+- (c = inversa e o = original)
 
 Respostas:
 -c = 255 - 39 = 226
