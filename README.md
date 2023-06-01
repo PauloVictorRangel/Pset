@@ -51,8 +51,10 @@ Calculando:
 - (-3,71 + (-58,05) + (-37) + (-20,88) + 152,4) = 32,7 ~= 33
 
 **4º Questão**
+
 ![Porco_Passaro_correlacionado](https://github.com/PauloVictorRangel/Pset/assets/104431068/431a02cf-b0e3-42e0-a5d7-d54229658849)
-Imagem correlacionada
+
+- Imagem correlacionada
  
  **5º Questão**
  
