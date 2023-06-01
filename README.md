@@ -49,4 +49,17 @@ Respostas:
 
 Calculando:
 - (-3,71 + (-58,05) + (-37) + (-20,88) + 152,4) = 32,7 ~= 33
+ 
+ **5º Questão**
+ 
+Vamos utilizar um kernel chamado “caixa de desfoque ou box blur”,
+o resultado dos pixels de uma imagem será a média dos pixels vizinhos da imagem original(entrada).
+
+
+**6º Questão**
+
+O kernel kx e ky aplicam um filtro para borrar as bordas, só que kx aplica esse filtro nas bordas horizontais da imagem e o ky aplica esse filtro nas bordas verticais da imagem.
+
+- Ox,y = round(√Ox^2x,y + Ou^2x,y)
+
 
